@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4ce240a3a0fa2433aaac36d53dd36f82
+timeCreated: 1523712059
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MontereyMediumFLF
+  fontNames:
+  - MontereyMediumFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

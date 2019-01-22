@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: e354c083ec9f240969179c06958f50ac
+timeCreated: 1521240953
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Redlight Free
+  fontNames:
+  - The Redlight Free
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6bd496125a5804dea95d887ce6891133, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
